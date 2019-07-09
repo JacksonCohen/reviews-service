@@ -3,7 +3,7 @@
 <img src="https://giant.gfycat.com/RaggedAppropriateAmericanalligator.gif" height="80%" width="80%">
 
 Air Bed 'n Breakfast Reviews is a replication of the reviews component from any given Airbnb room rental page. It aims to provide a seamless, SPA experience with interactive elements.
-- <img src="https://i.imgur.com/fWNJjfH.png" height="2%" width="2%"> Built with a React front-end
+- <img src="https://i.imgur.com/fWNJjfH.png" height="2.5%" width="2.5%"> Built with a React front-end
 - 💻RESTful server created with Express
 - 🎭 Tested using Jest and Enzyme
 - 📦 Built using Webpack
